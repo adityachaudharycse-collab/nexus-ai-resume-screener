@@ -82,6 +82,9 @@
    ```bash
    streamlit run app.py
    ```
+4. **Project Link:**
+ 
 
+    https://nexus-ai-resume-screener-qvrb5akupxukr96fgtrcdf.streamlit.app/
 ---
 
